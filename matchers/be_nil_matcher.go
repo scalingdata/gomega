@@ -1,6 +1,6 @@
 package matchers
 
-import "github.com/onsi/gomega/format"
+import "github.com/scalingdata/gomega/format"
 
 type BeNilMatcher struct {
 }

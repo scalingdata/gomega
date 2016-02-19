@@ -7,9 +7,9 @@ import (
 	"net/url"
 	"regexp"
 
-	. "github.com/onsi/ginkgo"
-	. "github.com/onsi/gomega"
-	. "github.com/onsi/gomega/ghttp"
+	. "github.com/scalingdata/ginkgo"
+	. "github.com/scalingdata/gomega"
+	. "github.com/scalingdata/gomega/ghttp"
 )
 
 var _ = Describe("TestServer", func() {

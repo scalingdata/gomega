@@ -3,7 +3,7 @@ package matchers
 import (
 	"fmt"
 
-	"github.com/onsi/gomega/format"
+	"github.com/scalingdata/gomega/format"
 )
 
 type SucceedMatcher struct {

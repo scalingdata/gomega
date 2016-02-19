@@ -2,10 +2,10 @@ package matchers_test
 
 import (
 	"time"
-	. "github.com/onsi/gomega/matchers"
+	. "github.com/scalingdata/gomega/matchers"
 
-	. "github.com/onsi/ginkgo"
-	. "github.com/onsi/gomega"
+	. "github.com/scalingdata/ginkgo"
+	. "github.com/scalingdata/gomega"
 )
 
 var _ = Describe("BeSent", func() {

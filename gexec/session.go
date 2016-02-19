@@ -11,8 +11,8 @@ import (
 	"sync"
 	"syscall"
 
-	. "github.com/onsi/gomega"
-	"github.com/onsi/gomega/gbytes"
+	. "github.com/scalingdata/gomega"
+	"github.com/scalingdata/gomega/gbytes"
 )
 
 const INVALID_EXIT_CODE = 254

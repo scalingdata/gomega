@@ -1,7 +1,7 @@
 package matchers
 
 import (
-	"github.com/onsi/gomega/format"
+	"github.com/scalingdata/gomega/format"
 	"reflect"
 )
 

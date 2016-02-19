@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/onsi/gomega/format"
+	"github.com/scalingdata/gomega/format"
 	"reflect"
 )
 

@@ -4,10 +4,10 @@ import (
 	"io"
 	"time"
 
-	. "github.com/onsi/gomega/gbytes"
+	. "github.com/scalingdata/gomega/gbytes"
 
-	. "github.com/onsi/ginkgo"
-	. "github.com/onsi/gomega"
+	. "github.com/scalingdata/ginkgo"
+	. "github.com/scalingdata/gomega"
 )
 
 var _ = Describe("Buffer", func() {

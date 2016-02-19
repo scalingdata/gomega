@@ -4,9 +4,9 @@ import (
 	"errors"
 	"time"
 
-	. "github.com/onsi/ginkgo"
-	. "github.com/onsi/gomega"
-	. "github.com/onsi/gomega/internal/asyncassertion"
+	. "github.com/scalingdata/ginkgo"
+	. "github.com/scalingdata/gomega"
+	. "github.com/scalingdata/gomega/internal/asyncassertion"
 )
 
 var _ = Describe("Async Assertion", func() {
